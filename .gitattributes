@@ -1,0 +1,4 @@
+# theme.css is consumed byte-for-byte: CLaudeApple concatenates it with
+# glass.css and asserts the base as an exact byte prefix. Any end-of-line
+# translation would break that build. Never rewrite these.
+* -text
