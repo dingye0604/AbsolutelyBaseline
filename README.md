@@ -1,18 +1,18 @@
-# ClaudeBaseline
+# AbsolutelyBaseline
 
 **English** | [中文](./README.zh-CN.md)
 
 An Obsidian theme that keeps [Baseline](https://github.com/aaaaalexis/obsidian-baseline)'s layout, components, and motion, and swaps in a warm, Claude-inspired palette and typography.
 
-ClaudeBaseline is a thin styling layer rather than a fork. Workspace layouts, callouts, tables, mobile behavior, filter classes, and every animation still come from Baseline, untouched. What changes is color and type.
+AbsolutelyBaseline is a thin styling layer rather than a fork. Workspace layouts, callouts, tables, mobile behavior, filter classes, and every animation still come from Baseline, untouched. What changes is color and type.
 
 | Light | Dark |
 | :---: | :---: |
-| [![ClaudeBaseline in light mode](./screenshot-light.jpg)](./Fig1.jpg) | [![ClaudeBaseline in dark mode](./screenshot-dark.jpg)](./Fig2.jpg) |
+| [![AbsolutelyBaseline in light mode](./screenshot-light.jpg)](./Fig1.jpg) | [![AbsolutelyBaseline in dark mode](./screenshot-dark.jpg)](./Fig2.jpg) |
 
 *Click a screenshot to view it full size.*
 
-> Looking for a glass version? [CLaudeApple](https://github.com/dingye0604/CLaudeApple) builds on this theme and adds frosted panels — plus optional native Windows 11 Acrylic.
+> Looking for a glass version? [AbsolutelyGlass](https://github.com/dingye0604/AbsolutelyGlass) builds on this theme and adds frosted panels — plus optional native Windows 11 Acrylic.
 
 ## What this theme changes
 
@@ -29,15 +29,15 @@ Everything else is Baseline, unchanged.
 ### From the community theme browser
 
 1. Open **Settings → Appearance → Themes → Manage**
-2. Search for **ClaudeBaseline**
+2. Search for **AbsolutelyBaseline**
 3. Select **Install and use**
 
 ### Manually
 
-1. Download `manifest.json` and `theme.css` from the [latest release](https://github.com/dingye0604/ClaudeBaseline/releases/latest)
-2. Create a folder named `ClaudeBaseline` inside `<your-vault>/.obsidian/themes/`
+1. Download `manifest.json` and `theme.css` from the [latest release](https://github.com/dingye0604/AbsolutelyBaseline/releases/latest)
+2. Create a folder named `AbsolutelyBaseline` inside `<your-vault>/.obsidian/themes/`
 3. Put both files in that folder
-4. Reload Obsidian, then choose **ClaudeBaseline** under **Settings → Appearance → Themes**
+4. Reload Obsidian, then choose **AbsolutelyBaseline** under **Settings → Appearance → Themes**
 
 ## Optional: Style Settings
 
@@ -45,13 +45,13 @@ Everything else is Baseline, unchanged.
 
 ## Credits
 
-ClaudeBaseline is a derivative work, and most of what you see is other people's work. Credit where it is due.
+AbsolutelyBaseline is a derivative work, and most of what you see is other people's work. Credit where it is due.
 
 ### Upstream theme
 
 **[Baseline](https://github.com/aaaaalexis/obsidian-baseline)** by [aaaaalexis](https://github.com/aaaaalexis) — MIT licensed.
 
-ClaudeBaseline is Baseline with its color and typography systems replaced. All layout, component, and motion code belongs to Baseline. If you like how this theme *behaves*, that is Baseline's doing.
+AbsolutelyBaseline is Baseline with its color and typography systems replaced. All layout, component, and motion code belongs to Baseline. If you like how this theme *behaves*, that is Baseline's doing.
 
 ### Bundled fonts
 
@@ -90,6 +90,6 @@ This is an independent, community-made theme. It is **not affiliated with, spons
 
 ## License
 
-[MIT](./LICENSE) © the ClaudeBaseline authors, incorporating Baseline © 2025 aaaa​alexis.
+[MIT](./LICENSE) © the AbsolutelyBaseline authors, incorporating Baseline © 2025 aaaa​alexis.
 
 Bundled and referenced fonts are licensed separately under the SIL Open Font License 1.1 — see [Credits](#credits).
