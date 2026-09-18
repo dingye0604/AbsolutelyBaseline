@@ -1,18 +1,18 @@
-# ClaudeBaseline
+# AbsolutelyBaseline
 
 [English](./README.md) | **中文**
 
 一个 Obsidian 主题：保留 [Baseline](https://github.com/aaaaalexis/obsidian-baseline) 的布局、组件与动效，替换为暖色、Claude 风的配色与排版。
 
-ClaudeBaseline 是一层薄样式，而不是 fork。工作区布局、标注块、表格、移动端行为、过滤类、以及每一处动画都原样来自 Baseline。改变的只有颜色与字体。
+AbsolutelyBaseline 是一层薄样式，而不是 fork。工作区布局、标注块、表格、移动端行为、过滤类、以及每一处动画都原样来自 Baseline。改变的只有颜色与字体。
 
 | 浅色 | 深色 |
 | :---: | :---: |
-| [![ClaudeBaseline 浅色](./screenshot-light.jpg)](./Fig1.jpg) | [![ClaudeBaseline 深色](./screenshot-dark.jpg)](./Fig2.jpg) |
+| [![AbsolutelyBaseline 浅色](./screenshot-light.jpg)](./Fig1.jpg) | [![AbsolutelyBaseline 深色](./screenshot-dark.jpg)](./Fig2.jpg) |
 
 *点击截图查看原尺寸。*
 
-> 想要玻璃效果？[CLaudeApple](https://github.com/dingye0604/CLaudeApple) 建立在本主题之上，追加磨砂面板，并可选启用 Windows 11 原生 Acrylic。
+> 想要玻璃效果？[AbsolutelyGlass](https://github.com/dingye0604/AbsolutelyGlass) 建立在本主题之上，追加磨砂面板，并可选启用 Windows 11 原生 Acrylic。
 
 ## 本主题改了什么
 
@@ -29,15 +29,15 @@ ClaudeBaseline 是一层薄样式，而不是 fork。工作区布局、标注块
 ### 从社区主题库
 
 1. 打开 **设置 → 外观 → 主题 → 管理**
-2. 搜索 **ClaudeBaseline**
+2. 搜索 **AbsolutelyBaseline**
 3. 选择 **安装并使用**
 
 ### 手动安装
 
-1. 从 [最新 release](https://github.com/dingye0604/ClaudeBaseline/releases/latest) 下载 `manifest.json` 和 `theme.css`
-2. 在 `<你的库>/.obsidian/themes/` 下新建文件夹 `ClaudeBaseline`
+1. 从 [最新 release](https://github.com/dingye0604/AbsolutelyBaseline/releases/latest) 下载 `manifest.json` 和 `theme.css`
+2. 在 `<你的库>/.obsidian/themes/` 下新建文件夹 `AbsolutelyBaseline`
 3. 把两个文件放进去
-4. 重启 Obsidian，然后在 **设置 → 外观 → 主题** 中选择 **ClaudeBaseline**
+4. 重启 Obsidian，然后在 **设置 → 外观 → 主题** 中选择 **AbsolutelyBaseline**
 
 ## 可选：Style Settings
 
@@ -45,13 +45,13 @@ ClaudeBaseline 是一层薄样式，而不是 fork。工作区布局、标注块
 
 ## 致谢
 
-ClaudeBaseline 是派生作品，你看到的大部分是别人的工作。该署的名一个都不能少。
+AbsolutelyBaseline 是派生作品，你看到的大部分是别人的工作。该署的名一个都不能少。
 
 ### 上游主题
 
 **[Baseline](https://github.com/aaaaalexis/obsidian-baseline)**，作者 [aaaaalexis](https://github.com/aaaaalexis)，MIT 许可。
 
-ClaudeBaseline 就是替换了配色与排版系统的 Baseline。全部布局、组件与动效代码属于 Baseline。如果你喜欢这个主题**的行为**，那是 Baseline 的功劳。
+AbsolutelyBaseline 就是替换了配色与排版系统的 Baseline。全部布局、组件与动效代码属于 Baseline。如果你喜欢这个主题**的行为**，那是 Baseline 的功劳。
 
 ### 内嵌字体
 
@@ -90,6 +90,6 @@ Baseline 自己的 README 还致谢了作为借鉴来源的社区主题 **Minima
 
 ## 许可
 
-[MIT](./LICENSE) © ClaudeBaseline 作者，包含 Baseline © 2025 aaaa​alexis。
+[MIT](./LICENSE) © AbsolutelyBaseline 作者，包含 Baseline © 2025 aaaa​alexis。
 
 内嵌与引用的字体另有 SIL Open Font License 1.1 授权，见 [致谢](#致谢)。
